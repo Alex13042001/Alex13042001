@@ -1,4 +1,4 @@
-### ¡Hola a todos! Mi nombre es Alex [Instagram] 👋
+### ¡Hola a todos! Mi nombre es Alex 👋
 
 ## Soy estudiante
 - ⚡ Me gusta estar constantemente aprendiendo cosas nuevas
@@ -8,10 +8,6 @@
 ![GitHub](https://github-readme-stats.vercel.app/api?username=Alex13042001&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex13042001&show_icons=true&theme=dark)
-
-<br />
-
-</details>
 
 ### Contactame!:
 
