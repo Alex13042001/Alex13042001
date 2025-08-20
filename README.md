@@ -17,6 +17,7 @@ Soy estudiante
 ### Contáctame:
 
 [<img align="left" alt="Instagram" width="22px" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-13.png" />][instagram]
-<br />
+[![Email](https://img.shields.io/badge/alejandro.r.a.2001@gmail.com-email_personal-D14836?style="padding-right:10px;"for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:alejandro.r.a.2001@gmail.com)
+</br>
 
 [instagram]: https://www.instagram.com/_alexx1304/?hl=es
