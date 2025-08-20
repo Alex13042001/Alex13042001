@@ -1,5 +1,3 @@
-![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/Alex.gif?raw=true)
-
 ## ¡Hola a todos! Mi nombre es Alex 👋😎
 Soy estudiante
 - ⚡ Me gusta estar constantemente aprendiendo cosas nuevas
