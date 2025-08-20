@@ -6,9 +6,8 @@
 ## 🔎 Mis estadisticas:
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex13042001&show_icons=true&theme=dark)
-![GitHub](https://github-readme-stats.vercel.app/api?username=Alex13042001&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex13042001&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contactame!:
 
