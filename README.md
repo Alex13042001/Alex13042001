@@ -7,12 +7,6 @@
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex13042001&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex13042001&show_icons=true&theme=dark&layout=compact)
-<a href="https://github.com/Alex13042001/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex13042001&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Alex13042001/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex13042001&repo=convoychat" />
-</a>
 
 ### Contactame!:
 
