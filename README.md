@@ -1,4 +1,4 @@
-## ¡Hola a todos! Mi nombre es Alex 👋
+## ¡Hola a todos! Mi nombre es Alex 👋😎
 Soy estudiante
 - ⚡ Me gusta estar constantemente aprendiendo cosas nuevas
 
