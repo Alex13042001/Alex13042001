@@ -4,8 +4,8 @@ Soy estudiante
 
 ## 🔎 Mis estadisticas:
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex13042001&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex13042001&show_icons=true&theme=dark&layout=compact)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex13042001&showicons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex13042001&showicons=true&theme=dark&layout=compact)
 
 ### Lenguajes y Herramientas:
 
