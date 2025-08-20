@@ -23,9 +23,9 @@ __Generales:__
 
 ## 🔎 Mis estadisticas:
 
-![GitHub](https://github-readme-stats.vercel.app/api?username=Alex13042001&show_icons=true&theme=tokyonight)
+![GitHub](https://github-readme-stats.vercel.app/api?username=Alex13042001&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex13042001&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex13042001&show_icons=true&theme=dark)
 
 <br />
 
