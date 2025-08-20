@@ -3,6 +3,16 @@
 ## Soy estudiante
 - ⚡ Me gusta estar constantemente aprendiendo cosas nuevas
 
+## 🔎 Mis estadisticas:
+
+![GitHub](https://github-readme-stats.vercel.app/api?username=Alex13042001&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex13042001&show_icons=true&theme=dark)
+
+<br />
+
+</details>
+
 ### Contactame!:
 
 [<img align="left" alt="Instagram" width="22px" src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-logo.png" />][instagram]
@@ -21,14 +31,6 @@ __Generales:__
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="30" height="30"/>
 <br />
 
-## 🔎 Mis estadisticas:
 
-![GitHub](https://github-readme-stats.vercel.app/api?username=Alex13042001&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex13042001&show_icons=true&theme=dark)
-
-<br />
-
-</details>
 
 [instagram]: https://www.instagram.com/_alexx1304/?hl=es
