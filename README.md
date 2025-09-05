@@ -1,5 +1,5 @@
 ## ¡Hola a todos! Mi nombre es Alex 👋😎
-Soy estudiante
+Soy estudiante de Administración de Sistemas Informáticos en Red (ASIR)
 - ⚡ Me gusta estar constantemente aprendiendo cosas nuevas
 
 ## 🔎 Mis estadisticas:
